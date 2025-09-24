@@ -2,7 +2,7 @@
 
 Control your computer mouse using just your hand movements and gestures – powered by **OpenCV**, **Mediapipe**, and **cvzone**.
 
-![Demo](gifvideo.gif)
+![Demo](video/gifvideo.gif)
 
 ---
 
@@ -43,8 +43,8 @@ Pinch index finger + thumb → click
 
 Release fingers → mouse up
 
-![First](first.png)
-![Second](second.png)
+![First](video/first.png)
+![Second](video/second.png)
 
 ## 📋 Requirements
 
@@ -65,12 +65,4 @@ cvzone
 pyautogui
  for mouse control
 
-## 📷 Demo
 
-```vbnet
-
-👉 Replace `demo.gif` with your actual file path or uploaded GIF.  
-
-Do you want me to also make a **short “How it works” diagram** for the README (like webcam → mediapipe → gestures → pyautogui → mouse)? It makes it look super professional.
-
-```
