@@ -2,7 +2,7 @@
 
 Control your computer mouse using just your hand movements and gestures – powered by **OpenCV**, **Mediapipe**, and **cvzone**.
 
-![Demo](demo.gif)
+![Demo](gifvideo.gif)
 
 ---
 
@@ -42,6 +42,9 @@ Move your index finger → cursor moves
 Pinch index finger + thumb → click
 
 Release fingers → mouse up
+
+![First](first.png)
+![Second](second.png)
 
 ## 📋 Requirements
 
